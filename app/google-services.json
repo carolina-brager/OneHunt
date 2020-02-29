@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40605560220",
+    "firebase_url": "https://wichacks2020.firebaseio.com",
+    "project_id": "wichacks2020",
+    "storage_bucket": "wichacks2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40605560220:android:a4b780b55326a764836c59",
+        "android_client_info": {
+          "package_name": "com.wichacks2020.onehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40605560220-gq99v4cj8b48lcoe18qgco80t537g3g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1AwnkWJyaEHr-5mWZ2UBwNgMJv6IbD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40605560220-gq99v4cj8b48lcoe18qgco80t537g3g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OneHunt</string>
+    <string name="tab_text_1">Prospects</string>
+    <string name="tab_text_2">Applied</string>
+    <string name="tab_text_3">Interview</string>
+    <string name="tab_text_4">Offer</string>
+    <string name="tab_text_5">Rejected</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_username">username</string>
+    <string name="action_sign_in_short">sign in</string>
+    <string name="already_registered_question">Already Registered? Sign in here!</string>
+    <string name="need_register_question">Click here to create an account!</string>
+    <string name="navigation">Navigation</string>
+    <string name="action_dashboard">Dashboard</string>
+    <string name="action_reminders">Reminders</string>
+    <string name="action_logout">Log Out</string>
+</resources>
